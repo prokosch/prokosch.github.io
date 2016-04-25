@@ -1,2 +1,2 @@
 # prokosch.github.io
-Attempting to get this grammar online
+This is the beginning of a online version of Prokosch's Comparative Germanic Grammar. It's not quite done, but with time, I'll be done with it. This is a project made possible through UCLA's Center for Digital Humanities. Many thanks to CDH for helping get this project going!
